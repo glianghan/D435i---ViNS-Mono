@@ -80,3 +80,9 @@ rosrun kalibr kalibr_calibrate_imu_camera \
 
 **PS. 目前只是把各部分的安装教程以及大体流程梳理好,后面还需要针对各部分进行一个详细的阐述.**
 
+## 补充实验 VINS-Fusion
+[**官方文档**](https://github.com/HKUST-Aerial-Robotics/VINS-Fusion)
+- 适用于opencv3版本,但我的版本是opencv4,编译时报错,无法正常使用.可以使用[VINS Fusion branch](https://github.com/guisoares9/VINS-Fusion),适配opencv4版本. <a href="https://github.com/guisoares9" target="_blank" rel="noopener noreferrer nofollow ugc">贡献@guisoares9</a>
+
+
+
