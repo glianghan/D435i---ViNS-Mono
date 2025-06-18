@@ -1,12 +1,18 @@
 # D435i---VINS-Mono
-## 该项目旨在介绍D435i相机在VINS Mono中的应用,打通整个流程,也方便各位研究者后续使用
+## 该项目旨在介绍D435i相机在VINS Mono中的应用,打通整个流程,也方便各位researcher后续使用
 目前该项目只上传了结果,具体过程及配置稍后会更新
-| 1                          | 2                            |
-| -------------------------- | ---------------------------- |
-| ![first](screen/first.png) | ![second](screen/second.png) |
-| 3                          | 4                            |
-| -------------------------- | ---------------------------- |
-| ![third](screen/third.png) | ![forth](screen/forth.png)   |
+| 1                          |
+| -------------------------- |
+| ![first](screen/first.png) |
+| 2                          |
+| -------------------------- |
+| ![second](screen/second.png) |
+| 3                          |
+| -------------------------- |
+| ![third](screen/third.png) |
+| 4                          |
+| ---------------------------- |
+| ![forth](screen/forth.png)   |
 
 
 ![forth_gif](screen/forth.gif)
