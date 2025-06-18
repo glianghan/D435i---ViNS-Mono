@@ -11,7 +11,6 @@
 **快速安装命令**:
 ```
 wget http://fishros.com/install -O fishros && . fishros
-
 ```
 - 一键安装ros <a href="https://github.com/fishros" target="_blank" rel="noopener noreferrer nofollow ugc">贡献@小鱼</a>
 - 一键安装docker <a href="https://github.com/alyssa1024" target="_blank" rel="noopener noreferrer nofollow ugc">贡献@alyssa</a>
@@ -28,6 +27,7 @@ wget http://fishros.com/install -O fishros && . fishros
 ### **步骤4: 安装kailb** (从步骤4及后面是安装在docker里的程序)
 - 参考[官方教程](https://github.com/ethz-asl/kalibr/wiki/installation)进行安装
 - 该程序用于标定相机内参和相机-imu参数
+
 **标定相机内参**
 运行下面代码会生成camera-camchain.yaml文件,里面有相机的各项参数设置.
 ```bash
