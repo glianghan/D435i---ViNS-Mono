@@ -29,6 +29,7 @@ wget http://fishros.com/install -O fishros && . fishros
 - 该程序用于标定相机内参和相机-imu参数
 
 **标定相机内参**
+
 运行下面代码会生成camera-camchain.yaml文件,里面有相机的各项参数设置.
 ```bash
 source /home/hgl/kalibr_ws/devel/setup.bash
